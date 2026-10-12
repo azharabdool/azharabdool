@@ -17,7 +17,7 @@ My engineering foundation spans the software-to-hardware spectrum. My growing fo
 | Embedded | [Collaborative STM32 practicals](https://github.com/azharabdool/stm32-signal-generation) | Timers, DMA, waveform tables and ADC/PWM; documentation only, shared firmware private |
 | Systems | [Scheduling and memory case study](https://azharabdool.vercel.app/projects/operating-systems-simulations/) | Individual address translation and scheduling notes; teaching scaffold withheld |
 
-Additional work includes tabular Q-learning, C++ image processing, concurrent Java GUIs, a collaborative React Native tutoring app and TCP/UDP coursework prototypes. Group contributions and post-project improvements are identified on the portfolio pages; shared source stays private where permissions are unresolved.
+Additional work includes tabular Q-learning, [C++ image processing](https://github.com/azharabdool/computer-vision-connected-components) with authored synthetic verification, concurrent Java GUIs, a collaborative React Native tutoring app and TCP/UDP coursework prototypes. Group contributions and post-project improvements are identified on the portfolio pages; shared source stays private where permissions are unresolved.
 
 ## Engineering Toolkit
 
