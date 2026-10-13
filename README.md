@@ -15,7 +15,7 @@ My engineering foundation spans the software-to-hardware spectrum. My growing fo
 | Data / FDE | [Foundry AI infographic dashboard](https://github.com/azharabdool/foundry-ai-infographic-dashboard) | Ontology, analytical workflows and an enterprise AI interface; documentation case study |
 | Software | [Engineering portfolio](https://github.com/azharabdool/portfolio) | Next.js, TypeScript, accessible interactive engineering studies |
 | Embedded | [Collaborative STM32 practicals](https://github.com/azharabdool/stm32-signal-generation) | Timers, DMA, waveform tables and ADC/PWM; documentation only, shared firmware private |
-| Systems | [Scheduling and memory case study](https://azharabdool.vercel.app/projects/operating-systems-simulations/) | Individual address translation and scheduling notes; teaching scaffold withheld |
+| Systems | [Address translator and scheduling notes](https://github.com/azharabdool/operating-systems-simulations) | Individual Java fixed-page-table translation; scheduling documentation only, teaching source withheld |
 
 Additional work includes tabular Q-learning, [C++ image processing](https://github.com/azharabdool/computer-vision-connected-components) with authored synthetic verification, concurrent Java GUIs, a collaborative React Native tutoring app and TCP/UDP coursework prototypes. Group contributions and post-project improvements are identified on the portfolio pages; shared source stays private where permissions are unresolved.
 
